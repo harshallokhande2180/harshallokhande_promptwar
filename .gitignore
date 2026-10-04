@@ -1,0 +1,21 @@
+# Security / Environment Variables
+.env
+*.env
+backend/.env
+
+# Python Virtual Env & Cache
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node Modules & Builds
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+node_modules/
+dist/
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/

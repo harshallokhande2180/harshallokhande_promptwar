@@ -1,0 +1,16 @@
+{
+  "demo@decisionmirror.ai": {
+    "id": "usr_demo_01",
+    "name": "Demo Explorer",
+    "email": "demo@decisionmirror.ai",
+    "password_hash": "35b20ce300228b503fe3c5569f8534301f55ae780f8d6e2493c09eec6f338617",
+    "created_at": "2026-10-04T00:00:00Z"
+  },
+  "harshal@218": {
+    "id": "usr_7a6c7843",
+    "name": "harshal lokhande",
+    "email": "harshal@218",
+    "password_hash": "5aad168a194ce51a3a025156b0951e4e1766464a43c60a8ae86017395ddceef0",
+    "created_at": "2026-10-04T00:00:00Z"
+  }
+}
